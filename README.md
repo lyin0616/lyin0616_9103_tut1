@@ -15,12 +15,12 @@ Based on the code of this watercolor effect, the oil painting texture is achieve
 ![WatercolourBrushstrokes](readmeImages/WatercolourBrushstrokes.jpg)
 [Watercolour Brushstrokes Video](https://www.youtube.com/watch?v=smO_u27QRK0&t=25s)
 
-[Code](https://openprocessing.org/sketch/1009901)
+[Watercolour Brushstrokes Code](https://openprocessing.org/sketch/1009901)
 
 ![Watercolor Paint](readmeImages/WatercolorPaint.jpg)
-[Simulating Water Colour Paint in P5js Video](https://www.youtube.com/watch?v=olXv8GOfpNw&t=0s)
+[Simulating Water Color Paint in P5js Video](https://www.youtube.com/watch?v=olXv8GOfpNw&t=0s)
 
-[Code](https://editor.p5js.org/BarneyCodes/sketches/QAEms_Oh8)
+[Simulating Water Color Paint in P5js Code](https://editor.p5js.org/BarneyCodes/sketches/QAEms_Oh8)
 
 
   
