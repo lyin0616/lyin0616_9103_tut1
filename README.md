@@ -1,4 +1,5 @@
 # lyin0616_9103_tut1
+### Part 1: Imaging Technique Inspiration 
+![An image of the Alight](readmeImages/Alight.jpg)
+![An image of the OceanSunset](readmeImages/Sunset.jpg)
 
-This is a repo that I will use to learn github.
-This is my repo.
