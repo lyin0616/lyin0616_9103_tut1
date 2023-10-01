@@ -22,7 +22,6 @@ Based on the code of this watercolor effect, the oil painting texture is achieve
 
 [Simulating Water Colour Paint in P5js Code](https://editor.p5js.org/BarneyCodes/sketches/QAEms_Oh8)
 
-
   
 
 
