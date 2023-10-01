@@ -21,11 +21,7 @@ Based on the code of this watercolor effect, the oil painting texture is achieve
 
 [Link Text](https://editor.p5js.org/BarneyCodes/sketches/QAEms_Oh8)
 
-[Link Text](https://www.youtube.com/watch?v=MEYdsoZua7E&t=8s)
 
-[Link Text](https://editor.p5js.org/StevesMakerspace/sketches/e4rxSKgYE)https://editor.p5js.org/StevesMakerspace/sketches/e4rxSKgYE)
-
-[Link Text](https://editor.p5js.org/StevesMakerspace/sketches/5LrCjYNka)
   
 
 
