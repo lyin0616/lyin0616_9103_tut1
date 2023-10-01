@@ -17,7 +17,7 @@ Based on the code of this watercolor effect, the oil painting texture is achieve
 
 [Watercolour Brushstrokes Code](https://openprocessing.org/sketch/1009901)
 
-![Watercolour Paint](readmeImages/WatercolorPaint.jpg)
+![Watercolour Paint](readmeImages/WatercolourPaint.jpg)
 [Simulating Water Colour Paint in P5js Video](https://www.youtube.com/watch?v=olXv8GOfpNw&t=0s)
 
 [Simulating Water Colour Paint in P5js Code](https://editor.p5js.org/BarneyCodes/sketches/QAEms_Oh8)
