@@ -29,7 +29,7 @@ function draw() {
     return;
   }
 
-  //Initialize variables
+  // Initialize variables
   let centroidplot = 0.0;
   let spectralCentroid = 0;
 
